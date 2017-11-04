@@ -119,7 +119,7 @@ fi
 TURTLEBOT_STAGE_MAP_FILE=/maps/maze.yaml
 TURTLEBOT_STACKS=hexagons
 TURTLEBOT_SIMULATION=false
-TURTLEBOT_RAPP_PACKAGE_WHITELIST=[rocon_apps, turtlebot_rapps]
+TURTLEBOT_RAPP_PACKAGE_WHITELIST=[rocon_apps,turtlebot_rapps]
 TURTLEBOT_STDR_MAP_FILE=/maps/sparse_obstacles.yaml
 TURTLEBOT_SERIAL_PORT=/dev/kobuki
 TURTLEBOT_BASE=kobuki
